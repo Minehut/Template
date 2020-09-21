@@ -1,0 +1,6 @@
+name: Template
+version: 1
+main: com.minehut.Template
+description: Template
+author: minehut
+api-version: 1.16
